@@ -1,0 +1,71 @@
+nav {
+  background-color: #f779da;
+}
+
+.delete-all {
+  background-color: red;
+  color: white;
+}
+
+.delete-all:hover {
+  background-color: #f779da;
+}
+
+.content {
+  margin-top: 70px;
+}
+
+.box {
+  margin: 5px;
+  width: 100%;
+  border-radius: 10px;
+  background-color: #f779da;
+  padding: 10px;
+  color: white;
+}
+
+.box h2 {
+  text-align: center;
+}
+
+.box ul {
+  width: 100%;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+.box li {
+  margin: auto;
+  float: left;
+}
+
+.box li a {
+  width: 100%;
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+.box li .tit {
+  font-weight: bold;
+}
+
+.my-post {
+  margin-top: 20px;
+  background-color: #f779da;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.my-post * {
+  color: white;
+}
+
+.my-post img {
+  width: 100%;
+  border-radius: 50%;
+}
+/*# sourceMappingURL=main.css.map */

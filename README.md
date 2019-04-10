@@ -17,3 +17,7 @@ Dentro del curso se sugiere a los estudiantes usar VisualStudioCode con los sigu
 * [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 * [SASS](https://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 * [W3Schools](https://www.w3schools.com/)
+
+## Taller
+
+[Desarrolla este taller](./Taller.pdf)
